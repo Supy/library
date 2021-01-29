@@ -20,5 +20,8 @@ A collection of useful or interesting articles/snippets/libraries/videos in the 
 * [A Guide to Consistent Hashing](https://www.toptal.com/big-data/consistent-hashing)
 * [Domain Oriented Observability (Domain Probes)](https://martinfowler.com/articles/domain-oriented-observability.html)
 
+## Software
+* [Materialize](https://materialize.com) - incremental computation streaming database using SQL.
+
 ## Other
 * [RealWorld](https://github.com/gothinkster/realworld) - Medium.com clone implementation in multiple languages and frameworks
