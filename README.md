@@ -23,5 +23,8 @@ A collection of useful or interesting articles/snippets/libraries/videos in the 
 ## Software
 * [Materialize](https://materialize.com) - incremental computation streaming database using SQL.
 
+## Whitepapers
+* [Evaluation of Cohort Algorithms for the FLoC API](https://github.com/google/ads-privacy/blob/master/proposals/FLoC/FLOC-Whitepaper-Google.pdf) - privacy-preserving interest based advertising algorithms using federated cohort assignment. 
+
 ## Other
 * [RealWorld](https://github.com/gothinkster/realworld) - Medium.com clone implementation in multiple languages and frameworks
