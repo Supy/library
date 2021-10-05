@@ -22,6 +22,10 @@ A collection of useful or interesting articles/snippets/libraries/videos in the 
 
 ## Software
 * [Materialize](https://materialize.com) - incremental computation streaming database using SQL.
+### Secrets Management
+* [Doppler](https://doppler.com)
+* [SecretHub](https://secrethub.io) - similar to Doppler. Acquired by 1Password.
+* [Chamber](https://github.com/segmentio/chamber) - tool for managing secrets stored in AWS Parameter Store and injecting them into your process at runtime. Fetches by path & scoped IAM role. Written by Segment.
 
 ## Whitepapers
 * [Evaluation of Cohort Algorithms for the FLoC API](https://github.com/google/ads-privacy/blob/master/proposals/FLoC/FLOC-Whitepaper-Google.pdf) - privacy-preserving interest based advertising algorithms using federated cohort assignment. 
