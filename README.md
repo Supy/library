@@ -16,6 +16,9 @@ A collection of useful or interesting articles/snippets/libraries/videos in the 
 ## Kotlin
 * [Kotlin and Exceptions](https://medium.com/@elizarov/kotlin-and-exceptions-8062f589d07)
 
+## Ruby & Rails
+* [This week in Rails](https://world.hey.com/this.week.in.rails)
+
 ## Technical Concepts
 * [A Guide to Consistent Hashing](https://www.toptal.com/big-data/consistent-hashing)
 * [Domain Oriented Observability (Domain Probes)](https://martinfowler.com/articles/domain-oriented-observability.html)
